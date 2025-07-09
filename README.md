@@ -14,5 +14,6 @@ Forge 1.20.1
 2: Extract the .jar file into your minecraft mods folder
 3: Enjoy! If you have any errors or suggestions, let me know by creating an issue
 
+
 Note: This requires an internet connection to work
 
