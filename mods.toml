@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="namelookup"
+version="1.0.0"
+displayName="Username checker"
+logoFile="banner.png"
+description='''
+A simple mod to check if a minecraft username is available with the command /checkname
+
+Example:
+/checkname Notch
+
+This is my first mod, hope you enjoy!'''
+authors="StrikeX2"
+credits="Me (StrikeX2), My dog, and a 420x570 picture of a Porsche 911 GT3 RS that I happened to have lying around"
+mywilly="Small"
