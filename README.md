@@ -11,7 +11,9 @@ Forge 1.20.1
 
 # Installation instructions:
 1: Download the zip file by clicking Code>Download ZIP
+
 2: Extract the .jar file into your minecraft mods folder
+
 3: Enjoy! If you have any errors or suggestions, let me know by creating an issue
 
 
