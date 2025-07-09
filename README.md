@@ -1,5 +1,6 @@
 # Minecraft Username Checker
 A simple minecraft mod to check if a minecraft username is available with the command /checkname
+
 Example:
 /checkname Notch
 
